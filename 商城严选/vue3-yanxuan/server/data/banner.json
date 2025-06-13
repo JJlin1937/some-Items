@@ -1,0 +1,36 @@
+{
+  "msg":"操作成功",
+  "result":[
+    {
+      "id":1,
+      "imgUrl":"https://yanxuan.nosdn.127.net/6dcb40c6818b892aa9a51d8928705211.jpg?type=webp&imageView&&thumbnail=1090x310&quality=95",
+      "hrefUrl":"/category/1",
+      "type":"1"
+    },
+    {
+      "id":2,
+      "imgUrl":"https://yanxuan.nosdn.127.net/3768fa50dd5ca3aa0537a72990b48554.jpg?type=webp&imageView&&thumbnail=1090x310&quality=95",
+      "hrefUrl":"/category/11",
+      "type":"1"
+    },
+    {
+      "id":3,
+      "imgUrl":"https://yanxuan.nosdn.127.net/3297667a12ee6b8f6203ff81754dd1cd.jpg?type=webp&imageView&&thumbnail=1090x310&quality=95",
+      "hrefUrl":"/category/14",
+      "type":"1"
+    },
+    {
+      "id":4,
+      "imgUrl":"https://yanxuan.nosdn.127.net/27038ec46af2f4554e370e612aa47431.jpg?type=webp&imageView&&thumbnail=1090x310&quality=95",
+      "hrefUrl":"/category/17",
+      "type":"1"
+    },
+    {
+      "id":5,
+      "imgUrl":"https://yanxuan.nosdn.127.net/8ad49a549de810376a80fd079297c236.jpg?type=webp&imageView&&thumbnail=1090x310&quality=95",
+      "hrefUrl":"/category/137",
+      "type":"1"
+    }
+  ]
+
+}

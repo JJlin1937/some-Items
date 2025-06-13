@@ -1,0 +1,462 @@
+{
+  "msg": "操作成功",
+  "code": 200,
+  "result": [
+    {
+      "id": 1005000,
+      "name": "居家",
+      "picture": "https://yanxuan-item.nosdn.127.net/50877370dd88b0cf4998ed2c8e41ba45.jpg?type=webp&quality=95&thumbnail=245x245&imageView",
+      "saleInfo": "居家生活，尽在眼前",
+      "children": [
+        {
+          "id": 1005001,
+          "name": "茶咖酒具",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005002,
+          "name": "水具杯壶",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005003,
+          "name": "餐具",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005004,
+          "name": "厨具",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005005,
+          "name": "家纺",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005006,
+          "name": "收纳用品",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005007,
+          "name": "灯具",
+          "layer": 2,
+          "parent": 1005000
+        },
+        {
+          "id": 1005008,
+          "name": "装饰摆件",
+          "layer": 2,
+          "parent": 1005000
+        }
+      ],
+      "goods": [
+        {
+          "id": 3989765,
+          "name": "宜兴原矿紫砂壶茶具礼盒5件套",
+          "desc": "纯正紫砂原矿料，百年经典器型",
+          "price": "599.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/7ad2fe8215ab3ecb7bf563c5072c2ab4.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997185,
+          "name": "与众不同的口感汝瓷白酒杯套组1壶4杯",
+          "desc": "白酒的最佳搭档，席间一道风景一汝瓷白酒套组",
+          "price": "399.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/db301c65e54c4457554cf0833c61438f.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3991607,
+          "name": "小u原创法压壶冰锥冷泡壶玻璃冰咖啡冷泡",
+          "desc": "法式经典，小u原创法压壶冰锥冷泡壶",
+          "price": "89.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/722a69c6dced4b97288f64106411a8ea.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4000635,
+          "name": "手握黄金比例意大利进口红酒杯2支装",
+          "desc": "来自意大利原装进口，价格适中，杯型圆润",
+          "price": "199.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/8c7f24c73ba48ec12ce741c33ca90428.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3996846,
+          "name": "国家非遗木叶盏，经典木叶茶具套装",
+          "desc": "千载传承，植物与陶瓷的巧妙结合",
+          "price": "179.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/ed1d84190efdb9d355ffe902477d0311.png?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3990707,
+          "name": "黑檀木茶道四君子泡茶工具茶饰摆件",
+          "desc": "让泡茶成为具有观赏性的一门艺术",
+          "price": "109.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/2c767b033dd233d91437f8b8b9db84e2.png?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997069,
+          "name": "梨皮朱泥三绝清代小品壶经典款紫砂壶",
+          "desc": "风靡南国的朱泥小壶，茶座上必备的实用'奢侈品'",
+          "price": "299.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/21970fa602430d869f9294a521912b6d.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4001009,
+          "name": "竹制干泡茶盘正方形沥水茶台品茶盘",
+          "desc": "干泡蓄水拆洗方便轻便实用",
+          "price": "109.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/5329a5a1bdb01ed89b7f03540755f4d9.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        }
+      ]
+    },
+    {
+      "id": 1006000,
+      "name": "美食",
+      "picture": "https://yanxuan-item.nosdn.127.net/30cb7c862fabb285beab46e008853cdc.jpg?type=webp&imageView&quality=95&thumbnail=245x245",
+      "saleInfo": "美味生活，品质享受",
+      "children": [
+        {
+          "id": 1006001,
+          "name": "零食",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006002,
+          "name": "冲饮",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006003,
+          "name": "糕点",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006004,
+          "name": "生鲜",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006005,
+          "name": "调味品",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006006,
+          "name": "方便食品",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006007,
+          "name": "有机食品",
+          "layer": 2,
+          "parent": 1006000
+        },
+        {
+          "id": 1006008,
+          "name": "酒类",
+          "layer": 2,
+          "parent": 1006000
+        }
+      ],
+      "goods": [
+        {
+          "id": 3989766,
+          "name": "16.5kcal/单片微苦不甜腻咖啡饼干",
+          "desc": "意式340克+美式340克组合装",
+          "price": "49.90",
+          "picture": "https://yanxuan-item.nosdn.127.net/e139817d5ecdd789314d944b6962e3b0.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997186,
+          "name": "有机蜂蜜柚子茶6瓶装",
+          "desc": "天然有机蜂蜜，清爽不腻",
+          "price": "59.90",
+          "picture": "https://yanxuan-item.nosdn.127.net/edbac1693b4b13acaaa38c3b3cfa3978.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3991608,
+          "name": "纯棉家居服套装3件装",
+          "desc": "100%纯棉，四季可穿",
+          "price": "129.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/039e6f7f5d7027e68459f0b876973df4.png?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4000636,
+          "name": "智能恒温电热水壶",
+          "desc": "精准控温，3小时保温",
+          "price": "299.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/353368765e78db422712c74cd5cd4167.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3996847,
+          "name": "国家非遗传统糕点礼盒",
+          "desc": "传统工艺，匠心制作",
+          "price": "89.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/355d2e778751ca1913e9c9be47c12fdd.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3990708,
+          "name": "进口橄榄油500ml",
+          "desc": "特级初榨，冷压工艺",
+          "price": "159.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/5bb599b7096d330c134731b82124804f.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997070,
+          "name": "有机杂粮米礼盒",
+          "desc": "多种杂粮搭配，健康营养",
+          "price": "79.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/ae1d7f926e3df150554c03060c8be273.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4001010,
+          "name": "进口红酒2瓶装",
+          "desc": "法国波尔多产区，醇香浓郁",
+          "price": "199.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/785dc612a0c04f755c876f72bd3082fd.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        }
+      ]
+    },
+    {
+      "id": 1007000,
+      "name": "服饰",
+      "picture": "https://yanxuan-item.nosdn.127.net/ef075806d2c7e5257cb7fbff3dcc76c6.jpg?type=webp&quality=95&thumbnail=245x245&imageView",
+      "saleInfo": "时尚穿搭，品质选择",
+      "children": [
+        {
+          "id": 1007001,
+          "name": "女装",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007002,
+          "name": "男装",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007003,
+          "name": "童装",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007004,
+          "name": "内衣",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007005,
+          "name": "鞋靴",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007006,
+          "name": "箱包",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007007,
+          "name": "配饰",
+          "layer": 2,
+          "parent": 1007000
+        },
+        {
+          "id": 1007008,
+          "name": "袜品",
+          "layer": 2,
+          "parent": 1007000
+        }
+      ],
+      "goods": [
+        {
+          "id": 3989767,
+          "name": "纯棉T恤夏季新款",
+          "desc": "100%纯棉，舒适透气",
+          "price": "89.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/3c7d2a14621c9f4b2ab32e1ad23cf818.png?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997187,
+          "name": "男士休闲裤",
+          "desc": "舒适面料，商务休闲两用",
+          "price": "129.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/aa112293e810abde611184fb4cf27d3b.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3991609,
+          "name": "儿童纯棉连体衣",
+          "desc": "柔软亲肤，可爱设计",
+          "price": "69.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/85a8afa7cd0c4b7698b7cb8bf1cf0d94.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4000637,
+          "name": "女士文胸套装",
+          "desc": "舒适无钢圈，健康设计",
+          "price": "149.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/1ae5bbd92588e4661fe5bc52a12de4f2.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3996848,
+          "name": "运动鞋休闲款",
+          "desc": "轻便透气，缓震设计",
+          "price": "299.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/1cd41222848e840e47e3e3d24c49f3f9.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3990709,
+          "name": "商务公文包",
+          "desc": "大容量，多功能隔层",
+          "price": "199.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/8e10c2f34241de4d8015a138c5974551.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3997071,
+          "name": "时尚太阳镜",
+          "desc": "UV400防护，轻便舒适",
+          "price": "129.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/8ac8e898d8ef048eab28cfe0d2935dca.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 4001011,
+          "name": "纯棉袜子5双装",
+          "desc": "吸汗透气，舒适耐穿",
+          "price": "49.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/e3452b94942ee29af2bc6a6440ccc747.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        }
+      ]
+    },
+    {
+      "id": 1008000,
+      "name": "母婴",
+      "picture": "https://yanxuan-item.nosdn.127.net/92f7d777c4f1f64806bc400adf0b4248.jpg?type=webp&imageView&quality=95&thumbnail=245x245",
+      "saleInfo": "母婴用品，安心之选",
+      "children": [
+        {
+          "id": 1008001,
+          "name": "奶粉辅食",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008002,
+          "name": "纸尿裤",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008003,
+          "name": "喂养用品",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008004,
+          "name": "洗护用品",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008005,
+          "name": "玩具",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008006,
+          "name": "童车童床",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008007,
+          "name": "孕妇用品",
+          "layer": 2,
+          "parent": 1008000
+        },
+        {
+          "id": 1008008,
+          "name": "寝居服饰",
+          "layer": 2,
+          "parent": 1008000
+        }
+      ],
+      "goods": [
+        {
+          "id": 3989768,
+          "name": "有机婴儿米粉",
+          "desc": "天然有机，易消化吸收",
+          "price": "69.00",
+          "picture": "https://img13.360buyimg.com/n1/s720x720_jfs/t1/240403/26/12828/75863/6678da69F9e3e3635/c84c1a5bad924d4c.jpg"
+        },
+        {
+          "id": 3997188,
+          "name": "超薄透气纸尿裤",
+          "desc": "瞬吸干爽，呵护宝宝肌肤",
+          "price": "129.00",
+          "picture": "https://yanxuan-item.nosdn.127.net/3bc76cf42e1de294d1185482f6c565f8.jpg?type=webp&quality=95&thumbnail=245x245&imageView"
+        },
+        {
+          "id": 3991610,
+          "name": "婴儿奶瓶套装",
+          "desc": "食品级材质，安全放心",
+          "price": "528.00",
+          "picture": "https://img1.360buyimg.com/n6/jfs/t1/274034/2/2293/377914/67d24eedF3e2ae52b/d69e4591c9e6f506.jpg"
+        },
+        {
+          "id": 4000638,
+          "name": "婴儿洗发沐浴露",
+          "desc": "温和无刺激，呵护娇嫩肌肤",
+          "price": "89.00",
+          "picture": "https://img2.baidu.com/it/u=1413228552,909822958&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=652"
+        },
+        {
+          "id": 3996849,
+          "name": "益智早教玩具",
+          "desc": "促进宝宝智力发展",
+          "price": "199.00",
+          "picture": "https://img1.baidu.com/it/u=2699451637,911608374&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=659"
+        },
+        {
+          "id": 3990710,
+          "name": "婴儿推车",
+          "desc": "轻便折叠，安全舒适",
+          "price": "899.00",
+          "picture": "https://img1.baidu.com/it/u=2867923106,451663070&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=650"
+        },
+        {
+          "id": 3997072,
+          "name": "孕妇防辐射服",
+          "desc": "有效屏蔽电磁辐射",
+          "price": "299.00",
+          "picture": "https://t15.baidu.com/it/u=2153911929,2730175631&fm=224&app=112&f=JPEG?w=375&h=500"
+        },
+        {
+          "id": 4001012,
+          "name": "婴儿睡袋",
+          "desc": "纯棉材质，舒适保暖",
+          "price": "149.00",
+          "picture": "https://img1.baidu.com/it/u=3267589262,2630702789&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
+        }
+      ]
+    }
+  ]
+}
